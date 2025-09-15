@@ -21,7 +21,7 @@ Este proyecto combina Power BI y Python (Google Colab) para analizar ventas, ide
 ![Relación Ventas vs Año Pasado](https://github.com/Franco-Chamorro/Proyecto_Data_Analytics/blob/main/Grafico%20Dispersi%C3%B3n.png)
 
 📌 Ventas por categoría y año-mes  
-![Ventas por Categoría]({0EFB782E-A20E-48B9-883F-44EFE6F33BEE}.png)
+![Ventas por Categoría](https://github.com/Franco-Chamorro/Proyecto_Data_Analytics/blob/main/Grafico%20de%20Columnas.png)
 
 ---
 
@@ -29,7 +29,7 @@ Este proyecto combina Power BI y Python (Google Colab) para analizar ventas, ide
 
 Puedes revisar el análisis completo en el notebook  
 
-🔗 [Notebook en Colab](httpsgithub.commanumunozi_Data_analyst-blobmainData_analyst-_Analisis_de_Ventas_Northwind.ipynb)
+🔗 [Notebook en Colab](https://github.com/Franco-Chamorro/Proyecto_Data_Analytics/blob/main/Analisis_Ventas_Neptuno.ipynb)
 
 ---
 
